@@ -139,7 +139,7 @@ table.insert(themedTexts, title)
 local subtitle = Instance.new("TextLabel", main)
 subtitle.Size = UDim2.new(1,0,0,20)
 subtitle.Position = UDim2.fromOffset(0,36)
-subtitle.Text = "Bem-vindo ao menu"
+subtitle.Text = "SCRIPT 100% UNIVERSAL BYPASS EM 99% DOS JOGOS"
 subtitle.Font = Enum.Font.Gotham
 subtitle.TextSize = 14
 subtitle.TextColor3 = THEME_COLOR
